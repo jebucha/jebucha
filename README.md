@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(https://bsky.app/profile/jebucha.bsky.social" target="blank"><img align="center" src="https://github.com/bluesky-social/social-app/blob/main/assets/default-avatar.png" alt="jebucha" height="30" width="40" /></a>
+<a href="https://bsky.app/profile/jebucha.bsky.social"><img align="center" src="https://github.com/bluesky-social/social-app/blob/main/assets/default-avatar.png" alt="jebucha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
