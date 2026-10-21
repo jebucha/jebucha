@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">A passionate cybersecurity engineer from Minnesota.</h3>
 
-- 🌱 I’m currently learning **Chef, Ansible**
+- 🌱 I’m currently about LLM security and privacy
 
 - 📫 How to reach me **jebucha@gmail.com**
 
